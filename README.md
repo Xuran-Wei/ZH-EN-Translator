@@ -10,3 +10,5 @@ $ pip install -r [path to your requirements.txt]
 $ cd [your path to the code]
 $ sh train.sh
 ```
+Model weight download link: https://pan.quark.cn/s/354c36e0bda8?pwd=jdQi
+Password: jdQi
